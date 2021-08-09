@@ -10,27 +10,42 @@ export default function App() {
         flex: 1,
         flexDirection: "row", // horizontal axis
         justifyContent: "center", // aligns item across main axis -> main axis is determined by flexDirection (if row -> main = horizontal, if column -> main = vertical)
-        alignItems: "center" // aligns item across secondary axis 
+        alignItems: "center", // aligns item across secondary axis
+        alignContent: "center", // only works if flexWrap is enabled
+        flexWrap: "wrap",
       }}
     >
       <View
         style={{
           backgroundColor: "dodgerblue",
           width: 100,
-          height: 300,
-          alignSelf: "flex-start" // alignSelf = applies to individual item, alignItems = applies to container
+          height: 100,
         }}
       />
       <View
         style={{
           backgroundColor: "gold",
           width: 100,
-          height: 200,
+          height: 100,
         }}
       />
       <View
         style={{
           backgroundColor: "tomato",
+          width: 100,
+          height: 100,
+        }}
+      />
+      <View
+        style={{
+          backgroundColor: "grey",
+          width: 100,
+          height: 100,
+        }}
+      />
+      <View
+        style={{
+          backgroundColor: "yellowgreen",
           width: 100,
           height: 100,
         }}
