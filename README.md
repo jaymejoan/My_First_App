@@ -7,3 +7,5 @@ The code is based on this tutorial: https://www.youtube.com/watch?v=0-S5a0eXPoc
 
 
 By following this tutorial, I hope to learn the fundamental skills and concepts required in app development as well as build on my passion for creating cool, slick and useful apps😎
+
+You can view the app [here!](https://expo.dev/@beajayme/Sellsies)

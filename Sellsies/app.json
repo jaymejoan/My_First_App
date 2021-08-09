@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Sellsies is a marketplace app users can use to sell stuff they don't need anymore.\n\nThe code is based on this tutorial: https://www.youtube.com/watch?v=0-S5a0eXPoc",
+    "githubUrl": "https://github.com/jaymejoan/My_First_App"
   }
 }
