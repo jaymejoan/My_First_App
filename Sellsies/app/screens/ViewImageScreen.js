@@ -19,7 +19,7 @@ function ViewImageScreen(props) {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#000",
+    backgroundColor: colours.black,
     flex: 1,
   },
   closeButton: {
