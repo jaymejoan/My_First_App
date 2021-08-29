@@ -1,5 +1,5 @@
 # My_First_App
-This is my first ever app that I created (from scratch) using React Native. 
+This is my first ever app that I created (from scratch) using React Native. Note: still in progress!
 
 The app called **"Sellsies"** (cheeky play on "Sharsies") is a marketplace app users can use to sell stuff they don't need anymore.
 
